@@ -1,0 +1,18 @@
+{
+  "name": "lesson4",
+  "version": "0.0.0",
+  "description": "ʹ�� eventproxy ���Ʋ���",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alsotang <alsotang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "eventproxy": "^0.3.1",
+    "http": "0.0.0",
+    "superagent": "^0.20.0",
+    "url": "^0.11.0"
+  }
+}
